@@ -1,29 +1,28 @@
-# StudentsDetails
+# 📚 Vue Student Manager
 
-This template should help get you started developing with Vue 3 in Vite.
+A responsive and modern student management app built with **Vue 3** and **Tailwind CSS**, featuring full **CRUD operations** and **localStorage** persistence.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Features
 
-## Customize configuration
+- ➕ Add new students
+- 📝 Edit existing records
+- 🗑️ Delete students
+- 📊 Manage class, grade, section, and attendance
+- 💾 Data is saved in localStorage (no backend needed)
+- 📱 Fully responsive for mobile and desktop
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🔧 Tech Stack
 
-```sh
-npm install
-```
+- [Vue 3](https://vuejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) for persistent data
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+## 📸 Screenshot
+![screencapture-localhost-5173-2025-06-19-21_51_37](https://github.com/user-attachments/assets/728afd11-3328-403f-99cc-63c2dfcb27d2)
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
